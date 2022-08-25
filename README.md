@@ -8,6 +8,8 @@
 <img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275467-6dc93d3f-0809-414a-b823-cc98d33949ab.svg" alt="anaconda">
 <img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275641-718813b4-d0f0-4aee-b34e-c1ede36fd806.svg" alt="git">
 <img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275564-e0899e6b-127e-41b8-ae28-edb0e93dca74.svg" alt="docker">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/102601255/186726286-d037f2ea-f7db-4204-8fec-16ab3b8b72d4.svg" alt="visualstudiocode">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/102601255/186728613-ab49d949-2564-4ae3-936e-ef9fd91eac13.svg" alt="pycharm">
 </div>
 
 <!--
