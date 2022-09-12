@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Software developer, specialized in digital marketing with broad experience in finance, sales and marketing. Used to dealing with clients, both B2B and B2C.
+💻 Graduated with a degree in Business Administration and Management, I have worked for more than 4 years as a financial analyst, where I developed my analytical skills, and also in business development for more than 2 years, where I had the opportunity to enhance my strategic and B2B client management skills.
 
-📚 I am currently an active programming student at 42, since I have decided to make a 90-degree turn in my professional career in order to combine my experience in business management with the use of software and new technologies.
+📚 I am currently a programming student at 42, since I have decided to make a 90-degree turn in my professional career in order to combine my experience in business analisys and business development with the use of software and new technologies to be able to develop myself as a more technical Data Analyst.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrisg90">
