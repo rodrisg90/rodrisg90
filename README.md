@@ -10,6 +10,7 @@
 <img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275564-e0899e6b-127e-41b8-ae28-edb0e93dca74.svg" alt="docker">
 <img width=40 height=40 src="https://user-images.githubusercontent.com/102601255/186726286-d037f2ea-f7db-4204-8fec-16ab3b8b72d4.svg" alt="visualstudiocode">
 <img width=40 height=40 src="https://user-images.githubusercontent.com/102601255/186728613-ab49d949-2564-4ae3-936e-ef9fd91eac13.svg" alt="pycharm">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/102601255/190000803-b8b41a78-0c5a-4bbb-b9ac-31374b8d8632.png" alt="sql">
 </div>
 
 <!--
