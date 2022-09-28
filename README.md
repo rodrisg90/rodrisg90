@@ -13,7 +13,6 @@
 <img width=40 height=40 src="https://user-images.githubusercontent.com/102601255/190000803-b8b41a78-0c5a-4bbb-b9ac-31374b8d8632.png" alt="sql">
 <img width=40 height=40 src="https://user-images.githubusercontent.com/102601255/190123172-666d2141-e165-44ca-98b0-9ae970eb11bd.svg" alt="powerbi">
 <img width=40 height=40 src="https://user-images.githubusercontent.com/102601255/190473489-9d0811f4-6acb-4604-9da5-a83e991658d3.png" alt="excel">
-<img width=40 height=40 src="https://user-images.githubusercontent.com/102601255/192764045-ec5508af-8b79-42b6-8ce6-678846c94d45.png" alt="excel">
 </div>
 
 <!--
