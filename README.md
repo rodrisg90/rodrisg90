@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Graduated with a degree in Business Administration and Management, I have worked for more than 4 years as a financial analyst, where I developed my analytical skills, and also in business development for more than 2 years, where I had the opportunity to enhance my strategic and B2B client management skills.
+💻 As an accomplished Business Administration and Management graduate, I have honed my analytical and strategic skills across a variety of industries over the past 7 years. Throughout my career, I have developed a comprehensive understanding of business operations, with a focus on improving processes, automating tasks, and optimizing performance.
 
-📚 I am currently a programming student at 42 Urduliz, since I have decided to make a 90-degree turn in my professional career in order to combine my experience in business analisys and business development with the use of software and new technologies to be able to become a more technical Data Analyst.
+
+📚 My expertise in data analysis and visualization has allowed me to create and present complex dashboards that provide powerful insights to drive business growth. Additionally, I have a proven track record of leading time-sensitive data projects and consistently delivering high-quality results.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrisg90">
