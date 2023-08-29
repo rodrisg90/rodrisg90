@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 As an accomplished Business Administration and Management graduate, I have honed my analytical and strategic skills across a variety of industries over the past 7 years. Throughout my career, I have developed a comprehensive understanding of business operations, with a focus on improving processes, automating tasks, and optimizing performance.
+💻 As an accomplished Business Administration and Management graduate, I have honed my analytical and strategic skills across a variety of industries over the past 9 years. Throughout my career, I have developed a comprehensive understanding of business operations, with a focus on improving processes, automating tasks, and optimizing performance.
 
 
-📚 My expertise in data analysis and visualization has allowed me to create and present complex dashboards that provide powerful insights to drive business growth. Additionally, I have a proven track record of leading time-sensitive data projects and consistently delivering high-quality results.
+📚 My expertise in data analysis and visualization has allowed me to create and present complex analysis and dashboards that provide powerful insights to drive business growth. Additionally, I have a proven track record of leading time-sensitive data projects and consistently delivering high-quality results.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrisg90">
